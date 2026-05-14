@@ -1,4 +1,4 @@
-# 
+# Get the ultimate OBS Studio for macOS extension with OBS Studio for macOS professional Extension: compressor & green-screen-removal. Featuring compressor and green-screen-removal,
 
 
 
